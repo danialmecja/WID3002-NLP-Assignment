@@ -1,0 +1,329 @@
+,name,locality,overall_service_score,overall_facility_score,overall_cost_score
+0,Dr. Jeyarajah S. @ Psychiatrists (Mental Illness Specialists),Johor Bahru,4.848819202633798,3.4441309472979187,3.1427701588037253
+1,Chan Specialist Clinic,Johor Bahru,3.003256409179737,2.5,2.5
+2,Hospital Permai Johor Bahru,Johor Bahru,2.7310585786300052,2.8807970779778826,2.5
+3,Klinik Pakar Jimmy,Johor Bahru,2.5,2.5,2.788823223287506
+4,Arquila ժՏʍ-ѵ Psychology Consultant,Johor Bahru,4.671844010415575,2.9621171572600096,2.6224593312018545
+5,Klinik Kaunseling Penawar,Johor Bahru,2.5,2.5,2.5
+6,Klinik Dr. Mahmud Jb,Johor Bahru,2.9621171572600096,2.731058578630005,3.261594155955765
+7,Soul Garden Counselling,Johor Bahru,4.114776715657158,2.9621171572600096,2.731058578630005
+8,Tan Children's Clinic,Johor Bahru,4.403985389889412,3.6552928931500244,2.5
+9,Orchid Family Polyclinic,Johor Bahru,3.461993762684023,3.379886026783482,2.5
+10,KPJ Johor Specialist Hospital,Johor Bahru,3.261594155955765,2.8807970779778826,2.5
+11,Klinik Achuta,Johor Bahru,2.8807970779778826,2.5,3.1118556566078874
+12,Klinik Faizal dan Rakan-Rakan Larkin,Johor Bahru,2.8807970779778826,2.8807970779778826,2.67134745348273
+13,Shinewave Retreat - Rehabilitation centre & psychology counselling,Johor Bahru,4.403985389889412,2.5,2.5
+14,Columbia Asia Hospital - Tebrau,Johor Bahru,4.459082333762547,4.1356983830093625,2.9621171572600096
+15,Kempas Medical Centre,Johor Bahru,4.324592675145334,2.7310585786300052,2.5
+16,Klinik Liew,Johor Bahru,3.362810868015791,2.7310585786300052,2.5
+17,Sultan Ismail Hospital,Johor Bahru,3.437192730612896,3.6051628056836025,2.7310585786300052
+18,宝宝小儿专科 S.T Lim Child Specialist,Johor Bahru,3.56407870818121,2.7310585786300052,2.8807970779778826
+19,klinik pakar j.rajah,Johor Bahru,4.403985389889412,3.6552928931500244,2.5
+20,Lsy Healthcare,Ulu Tiram,2.5,2.5,2.5
+21,Columbia Asia Hospital - Iskandar Puteri,Nusajaya,4.429642670547072,3.7436079459936735,2.731058578630005
+22,Gleneagles Hospital Medini Johor,Nusajaya,3.665646495490347,2.5,2.5
+23,Kensington Green Specialist Centre - 晶泽专科医院 | Specialist Hospital Johor Bahru (JB) | Private Hospital,Nusajaya,3.534860595819415,2.582570206462315,2.5
+24,Mohan Clinic And Surgery,Skudai,3.6008421042523704,3.077646446575012,2.653074164002318
+25,Pusat Kaunseling,Skudai,2.5,2.5,2.5
+26,UTM Health Centre,Skudai,3.373607186580051,3.2285859554733705,2.6224593312018545
+27,Agape Couselling Centre Malaysia Johor Bahru,Masai,3.611520306477421,3.193175735890015,2.5
+28,Dr BL Lim Centre For Psychological Wellness - Psychiatrist Singapore,Singapore,3.890868400364077,2.6224593312018545,2.5825702064623144
+29,Dr Adrian Wang Psychiatric and Counselling Care,Singapore,4.058839328490396,2.7491699865623898,2.5
+30,Nobel Psychological Wellness Centre (Ang Mo Kio),Singapore,2.5,2.5,2.5
+31,Nobel Psychological Wellness Centre (Novena Medical Centre),Singapore,3.8619003534334304,3.261594155955765,2.5
+32,Ko & Ko Specialists Pte Ltd,Singapore,3.6552928931500244,3.6552928931500244,2.5
+33,The Psychological Wellness Centre,Singapore,3.5937424137991827,3.1118556566078874,2.5
+34,Inez Psychological Well-Being Clinic,Singapore,4.762870634112167,2.5,2.5
+35,Ang Yong Guan Psychiatry,Singapore,3.529549237707952,2.9525741268224337,2.5
+36,Promises Healthcare (Psychiatry & Psychology Clinic),Singapore,3.2243657277057203,2.731058578630005,2.5
+37,KPJ PERLIS SPECIALIST HOSPITAL (HOSPITAL PAKAR KPJ PERLIS),Kangar,3.810864923847511,3.832460153605915,2.880797077977882
+38,Kangar Hospital,Kangar,2.9621171572600096,2.9621171572600096,2.5
+39,Dr Taran Singh - Orthopaedics & Sports,Kangar,3.303356316729847,2.8850976310500083,2.5
+40,Jabatan Kesihatan Negeri Perlis,Kangar,2.5,2.5,2.5
+41,UniMAP Health Center,Arau,2.5,2.5,2.5
+42,Klinik Pakar Psikiatri Hospital Sultanah Bahiyah 2,Alor Setar,3.116633936344644,2.5,2.5
+43,KEDAH MEDICAL CENTRE,Alor Setar,4.36755047272027,3.1611924892133016,2.6224593312018545
+44,Hospital Sultanah Bahiyah,Alor Setar,3.9026756304882317,3.964021435901214,2.5
+45,Putra Medical Centre Alor Setar,Alor Setar,4.0658679839433685,2.731058578630005,2.9525741268224333
+46,"INS Specialist Centre Sdn Bhd, Alor Setar",Alor Setar,3.1118556566078874,2.731058578630005,2.5
+47,KPJ Healthcare Berhad,Alor Setar,2.5,2.5,2.5
+48,Hospital Alor Setar Lama,Alor Setar,3.1025172375473855,3.1025172375473855,2.788823223287506
+49,"Clinical Research Center (CRC) Alor Setar, Hospital Sultanah Bahiyah",Alor Setar,3.077646446575012,3.077646446575012,2.5
+50,Hospital Bahagia Ulu Kinta,Tanjung Rambutan,3.1118556566078874,2.7310585786300052,2.5
+51,Hospital Wad Psikiatri | Pesakit Jiwa | Call Us,Tanjung Rambutan,2.5,2.5,2.5
+52,One Stop Physiotherapy Changlun,Changlun,2.9621171572600096,2.9621171572600096,2.5
+53,MY Psychology （MY 心理学）,Kuala Lumpur,4.166742409600633,2.96211715726001,2.5
+54,THE MIND FACULTY,Kuala Lumpur,4.99016156533385,2.7310585786300052,2.880797077977882
+55,Dr Seed Specialist Clinic (Psychiatry),Kuala Lumpur,3.5635993314692365,2.5,2.5
+56,Serene Psychological Services,Kuala Lumpur,4.09353409651533,2.7310585786300052,2.8807970779778826
+57,Dr. Khairi Rahman,Kuala Lumpur,2.5,2.5,2.5
+58,Introspect Specialist Clinic (Psychiatry) 身心精神科诊所,Kuala Lumpur,3.6884539477798555,3.270195262100016,2.5
+59,Klinik Pakar Au Yong,Kuala Lumpur,3.610978812713462,3.5074552020662715,2.6758874787009765
+60,Serene Psychology Centre,Kuala Lumpur,3.0396125224458217,2.9990889488056,2.5
+61,"Adult and Child & Adolescent Psychiatrist, Dr Hamidin Specialist Clinic",Kuala Lumpur,3.867336808307245,2.788823223287506,2.5
+62,International Psychology Centre (KL),Kuala Lumpur,3.8734498125636527,2.7310585786300052,2.5
+63,Neuropsy Clinic,Kuala Lumpur,3.24576065505508,2.5,2.5
+64,Dr. Rabin Gonzaga,Kuala Lumpur,3.378361072723487,2.5,2.5
+65,People Psychological Solutions,Kuala Lumpur,3.5785135850197385,3.6433641051030548,2.5
+66,Klinik Peace of Mind,Kuala Lumpur,2.5,2.5,2.5
+67,Dr. Lâle Merlet Clinical Psychologist & Psychotherapist Mont Kiara,Kuala Lumpur,2.5,2.5,2.5
+68,Klinik Pakar John Tan,Kuala Lumpur,3.712813202787509,3.084576488461864,2.5
+69,Chin Cheuk Ngen,Kuala Lumpur,2.5,2.5,2.5
+70,Valley Psychological Services,Kuala Lumpur,3.7141682827781985,2.7310585786300052,2.5
+71,MentCouch,Kuala Lumpur,3.3429142352378918,3.1118556566078874,3.1118556566078874
+72,Growing Space Psychology Center,Kuala Lumpur,4.327604693020392,2.5,2.5
+73,Share Resolve: Psychologists in KL,Kuala Lumpur,4.029639141519718,2.5,2.5
+74,MY Confidential,Kuala Lumpur,4.437798928171375,2.9621171572600096,2.5
+75,"Archdiocesan Mental Health Ministry, Archdiocese of Kuala Lumpur",Kuala Lumpur,4.910068950189542,4.403985389889412,2.5
+76,Mental Health Wellness Center & Psychologist Kuala Lumpur - 360 Wellness Hub,Kuala Lumpur,4.176816459952167,2.9621171572600096,2.5
+77,Dr. Francis Low Chee Chan,Kuala Lumpur,3.705034475094771,2.5,2.5
+78,Nur Psychology Center (NPC),Kuala Lumpur,2.5,2.5,2.5
+79,"The Mind Hub, Malaysian Mental Health Association",Kuala Lumpur,2.5,2.5,2.5
+80,Dr. Brian K. W. Ho,Kuala Lumpur,4.016798099059821,2.653074164002318,2.5
+81,Methadone Clinic HKL,Kuala Lumpur,2.5,2.5,2.5
+82,KPJ Tawakkal Health Centre,Kuala Lumpur,3.6051628056836025,2.9621171572600096,2.731058578630005
+83,Poliklinik Pakar Perubatan Jitra,Jitra,4.910068950189542,3.6552928931500244,4.403985389889412
+84,Global Doctors Clinic Langkawi,Langkawi,3.409901927674931,2.9525741268224337,2.9820137900379082
+85,Psychiatric House For Peculiar People,Langkawi,3.707276212842867,3.270195262100016,2.5
+86,Klinik Govin,Langkawi,3.4107324443417126,2.788823223287506,2.5
+87,Klinik Pakar Dr Yeoh & Dr Hazli Mental Health Specialist,Cheras,2.9820137900379087,2.7310585786300052,2.5
+88,Dr Nor Hamidah Specialist Clinic (Gleneagles KL MOB Specialist Clinics),Ampang,3.6552928931500244,3.6552928931500244,2.5
+89,"Jabatan Perubatan Psikologi , PPUM",Wilayah Persekutuan,2.96211715726001,2.8807970779778826,2.5
+90,Hospital Psikiatri | Pesakit Jiwa | Call Us,WP,2.5,2.5,2.5
+91,TAN & NG PSYCHIATRY CLINIC (PJ),Petaling Jaya,4.6093375230473885,3.3840534871576198,2.622459331201854
+92,Deva Dass Specialist Clinic,Petaling Jaya,4.308692143913939,2.731058578630005,3.1118556566078874
+93,Brain Mind Specialist Clinic,Petaling Jaya,3.3368432895236473,2.731058578630005,2.744918662403709
+94,Raintree Specialist Clinic,Petaling Jaya,4.2027458945576255,2.5,2.5
+95,Malaysian Mental Health Association,Petaling Jaya,3.584754525726729,2.9621171572600096,2.9525741268224333
+96,Eve Psychosocial Rehabilitation Centre,Petaling Jaya,3.8618998168213907,3.1118556566078874,2.880797077977882
+97,A. H. Lee Specialist Clinic,Petaling Jaya,4.275993529755845,3.193175735890015,2.5
+98,Dr. Ting Joe Hang,Petaling Jaya,4.403985389889412,4.403985389889412,2.5
+99,"Abri Integrated Mental Health - Individual, Couple/Marital, Child, Family Counseling & Therapy Centre",Petaling Jaya,4.000767084601255,3.1118556566078874,2.5
+100,Soul Mechanics Therapy Center,Petaling Jaya,3.3355316998697675,2.6224593312018545,2.5
+101,Process Psychology Center,Petaling Jaya,2.9525741268224333,3.183632705452438,2.9525741268224333
+102,Shal Home Care,Petaling Jaya,3.134661796629804,2.5,3.134661796629804
+103,Ding Psychology Centre,Petaling Jaya,3.8153849948382246,2.731058578630005,2.5
+104,Befrienders KL,Petaling Jaya,4.469578037075188,3.1118556566078874,2.5
+105,Chong Specialist Clinic (Mental Health),Malacca,3.7184309643833413,2.5,3.71430992578895
+106,Yeoh Psychiatric Clinic,Malacca,4.843896905437451,3.3429142352378918,2.5
+107,Jabatan Psikiatri @ Melaka,Malacca,4.352533844129035,3.270195262100016,2.5
+108,Klinik Khaw,Malacca,2.5,2.5,2.5
+109,Klinik Dr. Yee,Melaka,3.3410854972503827,2.731058578630005,2.9525741268224333
+110,Bright Child Specialist Clinic,Melaka,3.5354345746792455,2.9621171572600096,2.731058578630005
+111,"Poliklinik Bandar, Melaka",Melaka,3.1118556566078874,3.7859453316227487,2.880797077977882
+112,KLINIK BUKIT BERUANG,Melaka,3.994719403556264,3.2130723686679135,2.5
+113,Dr. Abu Bakar Ab. Rahman,Ayer Keroh,4.403985389889412,3.6552928931500244,2.5
+114,"Jabatan Psikiatri & Kesihatan Mental, Hospital Tuanku Ja'afar",Seremban,3.645749862712448,3.1118556566078874,2.731058578630005
+115,Growing Space Psychology Center,Seremban,3.6552928931500244,2.788823223287506,2.5
+116,D'Dawn Psychological Development Center,Seremban,2.5,2.5,2.5
+117,Louis Center for Children with Special Needs Seremban,Seremban,4.103528595432926,2.8850976310500083,2.5
+118,Klinik psikiatri bukit Rasah Seremban,Seremban,3.6552928931500244,3.6552928931500244,2.5
+119,Town Klinik,Seremban,3.6552928931500244,2.5,2.5
+120,Klinik Tan,Seremban,2.589920409262554,2.5,2.5
+121,Klinik Maria,Seremban,4.034999418667629,3.573972813867897,2.5
+122,MENTARI Port Dickson,Port Dickson,2.731058578630005,2.5,2.5
+123,Dr Wong Specialist Clinic (Psychiatry),Klang,3.451992694944706,2.5,2.5
+124,Klinik Pakar Centinel,Klang,4.203505904801485,3.264819570759859,2.975996347472353
+125,Ting Specialist Clinic,Puchong,3.4906068524436358,2.9621171572600096,2.5
+126,Enrich Counselling & Therapy Centre,Puchong,2.5,2.5,2.5
+127,Klinik Bandar Puteri,Puchong,3.452567982647831,3.2130723686679135,3.7141682827781977
+128,Klinik Selva - Bandar Puteri 1,Puchong,3.6534091033515863,2.9621171572600096,2.5
+129,"Pusat Pakar Psikologi Jiwadamai, Shah Alam",Shah Alam,4.124405023971557,3.193175735890015,2.5
+130,Alaminda Specialist Clinic Shah Alam,Shah Alam,3.6093830334512527,3.611520306477421,2.5
+131,PowerSub One-Stop Mental Health Care Services,Shah Alam,4.156613260465096,3.193175735890015,2.5
+132,Ward 32,Sungai Buloh,3.6552928931500244,2.5,2.5
+133,Ward 33 HSB,Sungai Buloh,3.077646446575012,3.451992694944706,2.5
+134,HPUPM Psychiatry Clinic & Ward,Seri Kembangan,2.5,2.5,2.5
+135,Psychalife Consultant,Seri Kembangan,3.6118548250798597,2.5,2.5
+136,Klinik Orthopedik Hospital Serdang,Seri Kembangan,3.124999999952811,3.1219092210542065,2.5
+137,Poliklinik South City,Seri Kembangan,4.093869140743569,2.9525741268224333,2.6224593312018545
+138,Klinik Pakar John Tan,Pelabuhan Klang,3.2130723686679135,2.880797077977882,2.731058578630005
+139,Chew Specialist Clinic (Psychiatry),Kota Kinabalu,3.3221785817928584,2.5,2.5
+140,Mind Wellness Clinic,Kota Kinabalu,3.6552928931500244,3.6552928931500244,2.5
+141,Jolene Psychology and Hypnosis Centre,Kota Kinabalu,3.553642794047365,3.077646446575012,2.5
+142,Bukit Padang Psychiatric Hospital,Kota Kinabalu,3.193175735890015,2.5,2.9621171572600096
+143,Serene Retreat Sabah,Kota Kinabalu,4.046443573468229,2.731058578630005,2.880797077977882
+144,Klinik Pakar Dr. Leonard,Kota Kinabalu,3.4971920267128986,3.183632705452438,2.5
+145,Kota Kinabalu Specialist Centre,Kota Kinabalu,2.5,2.5,2.5
+146,Klinik Dr.Choo & Liew,Kota Kinabalu,2.5,2.5,2.5
+147,KPJ Damai Care & Wellness Centre,Kota Kinabalu,3.333371204800316,2.5,2.660756368765817
+148,SabahCare Specialist Clinic,Kota Kinabalu,3.1118556566078874,3.183632705452438,2.5
+149,Faculty of Psychology and Education,Kota Kinabalu,2.5,2.5,2.5
+150,Jesselton Medical Centre Sdn Bhd,Kota Kinabalu,3.1534261398246874,3.261594155955765,2.5
+151,KM Clinic Damai,Kota Kinabalu,4.696058678240121,3.7237113132157744,2.5
+152,Poliklinik UMS,Kota Kinabalu,4.124405023971556,2.9621171572600096,2.5
+153,Hospital Universiti Malaysia Sabah,Kota Kinabalu,2.5,2.5,2.5
+154,Klinik Sabah,Kota Kinabalu,4.662112025376517,3.183632705452438,2.880797077977882
+155,Gleneagles Hospital Kota Kinabalu,Kota Kinabalu,3.2307232284995386,2.9975273768433652,2.5
+156,"Queen Elizabeth Hospital, Kota Kinabalu",Kota Kinabalu,3.433752097204452,3.1118556566078874,2.5
+157,Klinik Dr Ko (Kota Kinabalu),Kota Kinabalu,4.427240651446111,3.974666524623678,3.492652734585769
+158,Solace Asia,Kota Kinabalu,4.214168280717044,2.9998766054240136,2.5
+159,Papar Hospital,Kota Kinabalu,2.8535179098318593,2.731058578630005,2.5
+160,Pusat Rawatan Warga UMS,Kota Kinabalu,3.362810868015791,2.880797077977882,2.5
+161,Faculty of Medicine & Health Sciences,Kota Kinabalu,2.731058578630005,2.880797077977882,2.5
+162,University Malaysia Sabah,Kota Kinabalu,2.731058578630005,2.5,2.5
+163,Hospital Ranau,Ranau,3.2285859554733705,3.2285859554733705,2.5
+164,Klinik Kota Belud,Kota Belud,2.5,2.5,2.5
+165,Klinik & Surgeri H. Singh,Sandakan,2.5,2.5,2.5
+166,Sandakan Ren Ai Counseling Association Sabah,Sandakan,2.5,2.5,2.5
+167,"Duchess of Kent Hospital, Sandakan",Sandakan,3.678421459461842,3.3018301377355,2.731058578630005
+168,Tawau Specialist Polyclinics Centre Sdn Bhd,Tawau,3.959309183972908,3.7954883620603255,2.5
+169,Tawau Hospital,Tawau,3.638309040811565,2.731058578630005,2.5
+170,Keningau Hospital,Keningau,3.3429142352378918,3.1118556566078874,2.5
+171,Semporna Hospital,Semporna,2.993307149075715,2.9820137900379082,2.5
+172,Klinik Millenium,Labuan,2.5,2.5,2.5
+173,Labuan Hospital,Labuan,3.6362068322748717,2.731058578630005,2.7310585786300052
+174,Klinik Wilayah,Labuan,2.9820137900379082,2.8807970779778826,2.5
+175,Klinik Wawasan Labuan,Labuan,3.665646495490347,3.333371204800316,2.880797077977882
+176,Klinik Ramlee & Partners,Labuan,2.5,2.5,2.5
+177,Klinik Suria (Labuan) Sdn. Bhd.,Labuan,3.6950861587058212,3.492652734585769,2.5
+178,Klinik Dr Tan,Labuan,2.9998766054240136,2.9975273768433652,2.5
+179,Klinik Kesihatan UTC Labuan,Labuan,3.1118556566078874,2.9621171572600096,2.5
+180,Klinik Desa Sungai Lada,Labuan,2.5,2.5,2.5
+181,Jabatan Perkhidmatan Veterinar (Klinik),Labuan,3.660488711431536,2.9621171572600096,2.5
+182,Pejabat Kesihatan Daerah Wilayah Persekutuan Labuan,Labuan,2.5,2.5,2.5
+183,Labuan Matriculation College,Labuan,2.731058578630005,2.5,2.5
+184,Universiti Malaysia Sabah Kampus Antarabangsa Labuan,Labuan,3.6552928931500244,3.6552928931500244,2.5
+185,Saima Sabah M.D.,Downers Grove,2.5,2.5,2.5
+186,"Sabah Hadi, MD",Ashburn,4.225621736031582,2.731058578630005,2.5
+187,Dr. Sabah N. Chammas,Encinitas,2.5,2.5,2.5
+188,sabha Hospital,Al Kuwayt,4.029639141519718,3.451992694944706,3.077646446575012
+189,Yap Psychiatric Specialist Clinic,Kuching,4.918080652855444,2.788823223287506,2.5777206261072476
+190,Permai Psychiatric (Specialist) Clinic 柏迈心理专科诊所 Klinik Kesihatan Mental,Kuching,4.999969279126989,4.910068950189542,2.5
+191,Sentosa Hospital,Kuching,3.124999999999984,3.1219092210542065,2.5
+192,"Acute Psychiatric Ward, Sarawak General Hospital",Kuching,2.5,2.5,2.5
+193,Mental Health Association of Sarawak (Kuching Office),Kuching,3.743818442108413,2.5,2.5
+194,Klinik Dominic Songan,Kuching,3.4051482536448665,2.5,2.777866359287845
+195,New Health Counseling Kuching,Kuching,4.910068950189542,3.6552928931500244,2.5
+196,Dr. Albert Wong Sii Hieng,Kuching,4.999999998605266,3.6552928931500244,2.5
+197,Timberland Medical Centre,Kuching,3.306092036654293,2.8535179098318593,2.880797077977882
+198,"Blok Klinik Pakar, Hospital Umum Sarawak",Kuching,2.5,2.5,2.5
+199,T.Y. Wee Specialist Clinics for Children,Kuching,3.5428186074103705,2.880797077977882,2.5
+200,Hospital Umum Sarawak,Kuching,2.6224593312018545,3.261594155955765,2.5
+201,Borneo Medical Centre,Kuching,2.805501095441664,2.5,3.1118556566078874
+202,KPJ Kuching Specialist Hospital,Kuching,2.880797077977882,2.9621171572600096,2.5
+203,Petra Jaya Health Clinic,Kuching,3.4441309472979187,2.731058578630005,2.731058578630005
+204,Borneo Specialist Hospital,Kuching,4.910068950189542,3.6552928931500244,2.5
+205,"Psychiatry and Mental Health Department, Hospital Miri",Miri,2.5,2.5,2.5
+206,Columbia Asia Hospital - Miri,Miri,4.403985389889412,3.4242343145200196,2.5
+207,Chong Specialist Clinic,Miri,3.5979055685265595,2.788823223287506,2.5
+208,Goh Medical Specialist Clinic,Miri,2.5,2.5,2.5
+209,Dr Kelvin Lau 刘会建心理精神专科诊所,Sibu,4.403985389889412,2.5,2.5
+210,Eddy Su Specialist Clinic 蘇熙善心理精神專科診所,Sibu,4.987636884216826,3.6552928931500244,2.5
+211,Siburan Clinic (Dr. Chai Chiun Pheng),Siburan,3.6552928931500244,3.6552928931500244,2.5
+212,Columbia Asia Hospital - Bintulu,Bintulu,3.957334729151532,3.261594155955765,2.5
+213,TAN & NG PSYCHIATRY CLINIC (IPOH BRANCH),Ipoh,3.9938576983822767,2.9759963474723534,2.5
+214,TAN & NG Mental Health Specialist,Ipoh,4.54763949191512,3.63938784242073,2.5
+215,Klinik Pakar Psikiatri,Ipoh,2.5,2.5,2.5
+216,Psychiatry & Mental Health Department,Ipoh,2.5,2.5,2.5
+217,WMC Psychotherapy Centre,Ipoh,4.987636884216826,3.6552928931500244,2.5
+218,Cheah & Lim Medical Associates Sdn. Bhd.,Ipoh,4.70187920027295,3.6552928931500244,2.5
+219,KPJ Ipoh Specialist Hospital,Ipoh,2.880797077977882,2.731058578630005,2.9820137900379082
+220,Clinic B.S. Yeoh,Ipoh,2.5,2.5,2.5
+221,Klinik Pakar Perubatan Tan,Ipoh,2.975996347472353,2.5,2.5
+222,Klinik K L Tan,Ipoh,3.9380181133596515,3.519759427679812,2.5
+223,Klinik Pergigian Ipoh Jaya,Ipoh,3.3429142352378918,3.1118556566078874,2.9621171572600096
+224,Perak Community Specialist Hospital,Ipoh,2.999993855825398,2.999993855825398,2.5
+225,FITRAH NURSING CARE,Ipoh,3.705034475094771,3.451992694944706,2.5
+226,Wong Medical Centre,Ipoh,4.621932400814922,3.840441612081257,2.5
+227,Hospital Fatimah,Ipoh,3.2307232284995386,2.9975273768433652,2.5
+228,Dr. Shan Paediatrics & Child health clinic,Ipoh,4.745134191999234,2.963367284440197,2.5
+229,Dr. Saw Khay Chee,Ipoh,2.5,2.5,2.5
+230,Pantai Hospital Ipoh,Ipoh,3.9770685437246387,3.972848315956989,2.5
+231,Pusat Jagaan Maju Jaya (PJMJ),Ipoh,2.5,4.403985389889412,2.5
+232,Dr. Tan Wei Ming,Ipoh,2.5,2.5,2.5
+233,Dr. Selvan a/l Nallayan,Ipoh,3.077646446575012,3.077646446575012,2.5
+234,Klinik Pakar Kulit Ratti,Ipoh,3.519759427679812,2.8850976310500083,2.5
+235,Simee Health Clinic,Ipoh,3.11576648027757,3.1118556566078874,2.5
+236,klinik kasih ipoh,Ipoh,4.20758409649441,3.417893734762177,2.5
+237,V S Loo Surgical Clinic Sdn Bhd,Ipoh,2.9525741268224333,2.6224593312018545,2.5
+238,Perak Society for the Promotion of Mental Health,Ulu Kinta,2.5,2.5,2.5
+239,Kompleks Psikiatri & Kesihatan Mental HSNZ,Kuala Terengganu,3.6552928931500244,2.5,2.5
+240,Klinik Pakar Hashim,Kuala Terengganu,3.6314353170560834,3.451992694944706,2.5
+241,KMI Kuala Terengganu Medical Centre,Kuala Terengganu,3.434587916860342,3.362810868015791,2.660756368765817
+242,SALAM Specialist Hospital Kuala Terengganu,Kuala Terengganu,3.1607555372377893,2.5,2.5
+243,UniSZA Medical Specialist Clinic,Kuala Terengganu,2.5,2.5,2.5
+244,"Sultanah Nur Zahirah Hospital, Kuala Terengganu",Kuala Terengganu,2.5,2.5,2.5
+245,Hospital Pengajar UniSZA,Kuala Terengganu,2.5,2.5,2.5
+246,KLINIK SARAF DR FADZLAN AL-ASHIRIN,Kuala Terengganu,2.5,2.5,2.5
+247,Klinik Kumpulan Muslimah,Kuala Terengganu,2.5,2.5,2.5
+248,Nam Hoe Medical Hall,Kuala Terengganu,2.5,2.5,4.403985389889412
+249,Klinik Nuraeen,Kuala Terengganu,3.261594155955765,3.414691284082443,2.5
+250,Pusat Perubatan Intan Sdn. Bhd.,Kuala Terengganu,3.464027580075817,3.183632705452438,2.5
+251,Klinik Iddrus,Kerteh,2.5,2.5,2.5
+252,Dr Tan Psychiatry Clinic (心理精神科）,Kuantan,2.5,2.5,2.5
+253,Klinik Lee,Kuantan,3.7026460641972285,3.4126844092945054,2.8969680952420545
+254,IIUM Family Health Clinic,Kuantan,3.5925634138835547,3.2130723686679135,2.5
+255,IIUM MEDICAL CENTRE,Kuantan,3.261594155955765,3.231013180761302,2.880797077977882
+256,KPJ Pahang Specialist Hospital,Kuantan,3.492652734585769,2.880797077977882,2.660756368765817
+257,Pahang Medical Centre,Kuantan,3.7237113132157744,3.4242343145200196,2.731058578630005
+258,Darul Makmur Medical Centre,Kuantan,4.236915095069389,3.3429142352378918,2.5
+259,Klinik Suffimas,Kuantan,2.5,2.5,2.5
+260,Pahang Polyclinic Surgery & Maternal Child Health Centre,Kuantan,3.5644297834303202,2.5,2.5
+261,Kuantan Medical Centre,Kuantan,3.5644297834303202,3.0224500513039603,2.5
+262,KLINIK PUTRAMEDIC KUANTAN INDERA MAHKOTA,Kuantan,4.243608441206338,3.492652734585769,2.731058578630005
+263,KULLIYYAH OF MEDICINE,Kuantan,3.3429142352378918,3.3429142352378918,2.5
+264,"Tengku Ampuan Afzan Hospital, Kuantan",Kuantan,3.155200398608762,2.731058578630005,2.5
+265,Hospital KCDC /Kuantan Clinical Diagnostic Centre Sdn. Bhd.,Kuantan,3.7105997455112787,3.193175735890015,2.5
+266,Setiu Hospital,Permaisuri,3.1118556566078874,2.9621171572600096,2.5
+267,Klinik Kelulut Dr Fadzlan Al Ashirin,Marang,3.2542902113707224,2.5,2.5
+268,Hulu Terengganu Hospital,Kuala Berang,2.731058578630005,3.1118556566078874,2.731058578630005
+269,Besut Hospital,Besut,2.731058578630005,2.731058578630005,2.5
+270,Dungun Hospital,Kuala Dungun,2.6224593312018545,2.5,2.5
+271,Kemaman Hospital,Chukai,3.3429142352378918,2.9621171572600096,2.5
+272,Department of Mental Health Psikiatridan HRPZ II,Kota Bharu,2.7040988853364243,3.303356316729847,2.8850976310500083
+273,Klinik Insaf,Kota Bharu,3.7141682827781977,3.193175735890015,2.5
+274,KPJ Perdana Specialist Hospital,Kota Bharu,3.1721885506518377,3.5644297834303202,2.5
+275,"Dr. Wee Tiang Goh (M.B.B.S. (S'pore) M.R.C.P. (UK) F.R.C.P. (Edin) A.M. (M'sia), Klinik Wee",Kota Bharu,2.5,2.5,2.5
+276,"Raja Perempuan Zainab II Hospital, Kota Bharu",Kota Bharu,2.5,2.5,2.5
+277,Kota Bharu Medical Centre,Kota Bharu,3.952449900718419,2.880797077977882,2.731058578630005
+278,Usains Tech Services Sdn. Bhd.,Kota Bharu,2.5,2.5,2.5
+279,Hospital Universiti Sains Malaysia Kubang Kerian,Kota Bharu,2.5,2.731058578630005,2.731058578630005
+280,Usains HUSM Executive Health Services Polyclinic & Ward,Kota Bharu,2.880797077977882,2.5,2.5
+281,"Kompleks Rawatan Harian, HRPZ II",Kota Bharu,3.74995824644538,3.6314353170560834,2.5
+282,"School of Medical Sciences, USM",Kota Bharu,3.077646446575012,2.5,2.5
+283,Klinik Dr Nik,Tanah Merah,3.519759427679812,2.8850976310500083,2.8850976310500083
+284,Tanah Merah Hospital,Tanah Merah,3.1118556566078874,3.4051482536448665,2.731058578630005
+285,Hospital Kuala Krai,Kuala Krai,2.9990889488055994,2.999999999999987,2.5
+286,Machang Hospital,Machang,2.5,2.5,2.5
+287,Family Care Clinic Labuan,Victoria,3.492652734585769,3.193175735890015,2.5
+288,Klinik Perubatan Ong Sdn. Bhd.,Victoria,2.788823223287506,2.5,2.5
+289,Klinik Wong & Ung,Victoria,3.134661796629804,2.5,2.5
+290,Klinik Leong,Victoria,4.403985389889412,2.5,2.5
+291,Klinik Pergigian Bakti(Klinik Surgeri & Pergigian Bakti Sdn Bhd),Victoria,3.403247129281843,2.731058578630005,2.5
+292,Klinik Kesihatan Labuan,Victoria,2.5,2.731058578630005,3.1118556566078874
+293,State Health Department Federal Territory of Labuan,Victoria,4.403985389889412,3.6552928931500244,2.5
+294,Pusat Komuniti Kesihatan Mental Putrajaya (MENTARI),Putrajaya,3.1219092210542065,2.788823223287506,2.5
+295,Specialist Outpatient Medical Clinic,Putrajaya,3.743818442108413,3.1245808123369168,2.788823223287506
+296,Putrajaya Hospital,Putrajaya,3.7752542109543805,3.0896769598708,2.5
+297,Precint 11 Putrajaya Health Clinic,Putrajaya,3.492652734585769,3.3429142352378918,2.5
+298,Cawangan Kawalan Amalan Perubatan Swasta,Putrajaya,3.2307232284995377,2.880797077977882,2.9820137900379082
+299,CPC International,Bandar Baru Bangi,2.5,2.5,2.5
+300,Klinik Zubir Sdn. Bhd.,Bandar Baru Bangi,3.414691284082443,2.9621171572600096,2.5
+301,Poliklinik An-Nisa' Cyberjaya,Cyberjaya,2.731058578630005,2.5,2.880797077977882
+302,Qualitas SV Care Clinic Cyberjaya 24 hours,Cyberjaya,3.174603862662467,2.9990889488055994,2.731058578630005
+303,BravuraMind,Subang Jaya,4.32998753044928,2.731058578630005,3.261594155955765
+304,Klinik Alam Medic,Subang Jaya,4.165792884791661,3.261594155955765,2.5
+305,Subang Jaya Medical Centre (SJMC),Subang Jaya,3.593869446645796,2.731058578630005,2.5
+306,WQ Park Bangi | Health & Rehabilitation Centre,Bangi,4.073551578829863,3.6884539477798555,2.5
+307,Jabatan Psikiatri,Serdang,3.7496915135600344,3.077646446575012,2.5
+308,Hospital Pengajar Universiti Putra Malaysia(HPUPM),Serdang,3.461781807129543,3.9640274675406544,2.5709465968834664
+309,Poliklinik UKM Kesihatan,Kajang,3.4653735664397467,2.9621171572600096,2.5
+310,"Klinik Mediviron Kota Warisan, Sepang",Sepang,3.3514848472265255,2.9820137900379082,2.582570206462315
+311,Sultan Haji Ahmad Shah Hospital,Temerloh,3.573972813867897,3.860338244859156,2.731058578630005
+312,MY HEALTH CLINIC PEKAN (24JAM),Pekan,2.9975273768433652,2.9525741268224333,2.5
+313,Mentari Mentakab,Mentakab,2.5,2.5,2.5
+314,Kuala Lipis Hospital,Kuala Lipis,3.355872651330769,3.434587916860342,2.5
+315,Dr Wee Penang Psychiatry / Psychological Medicine Clinic,George Town,4.495008970927902,2.7310585786300052,2.5621765008857977
+316,ONG SPECIALIST CENTRE PENANG,George Town,3.378324454821248,2.9621171572600096,2.5
+317,Jabatan Psikiatri @ Pulau Pinang,George Town,2.5,2.5,2.5
+318,Dr. R. June George,Sungai Petani,4.2090817636310955,3.6552928931500244,2.5
+319,Clinic Dr. Rosly,Sungai Petani,3.63938784242073,2.8850976310500083,2.8850976310500083
+320,Metro Specialisit Hospital,Sungai Petani,3.3510452866752245,3.1317528259978262,2.5
+321,Lifecare Physiotherapy Center,Sungai Petani,2.5,2.5,2.5
+322,Pantai Hospital Sungai Petani,Sungai Petani,3.519759427679812,3.63938784242073,2.5
+323,Pantai Hospital Laguna Merbok,Sungai Petani,3.945545925767682,4.360214850283169,2.5
+324,Klinik Vigneshwer (KIDA),Kulim,3.452573820920206,3.230147527435604,2.5
+325,Klinik Kulim,Kulim,4.285821937046763,2.9820137900379082,2.5
+326,KLINIK PAKAR DR. WEE (Psychiatry/Psychological Medicine),Butterworth,2.5,2.5,2.5
+327,RHC Training Centre,Bukit Mertajam,3.6552928931500244,2.5,2.5
