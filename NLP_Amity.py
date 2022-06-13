@@ -36,7 +36,7 @@ def lemmatize_text(text):
 
 df['Preprocessed']=df['Preprocessed'].apply(lambda text : lemmatize_text(text))
 
-column=['Unnamed:','name','locality','address','rating','text']
+column=['Unnamed:','name','address','rating','text']
 selectlist=[x for x in df.columns if x not in column]
 datatowrite=df[selectlist]
 
