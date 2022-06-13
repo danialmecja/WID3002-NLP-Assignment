@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+
 # Page style
 
 # Functions 
@@ -11,27 +12,43 @@ def get_reviews_facility(facility):
         facility_data = data[data['name'].str.contains(facility_name)]
         #st.table(facility_data)
         st.write('Location: ',facility_data['locality'].iloc[0])
+        
+        # getting ratings from df
         facility_service = facility_data['overall_service_score'].iloc[0]
         display_ratings('Service:',facility_service)
         facility_facilities = facility_data['overall_facility_score'].iloc[0]
         display_ratings('Facilities:',facility_facilities)
         facility_cost = facility_data['overall_cost_score'].iloc[0]
         display_ratings('Cost:',facility_cost)
+        
+        
+        average_ratings = facility_data['average'].iloc[0]
+        if average_ratings >= 2.5:
+            st.write (facility_name, " is recommended")
+        else:
+            st.write (facility_name, " is not recommended")
 
 def get_reviews_locality(locality):
-    facility = locality
-    if len(facility) != 0:
-        facility_name = facility[0]
-        st.write('The facility you have chosen is ', facility_name)
-        facility_data = data[data['locality'].str.contains(facility_name)]
-        st.table(facility_data)
-        st.write('Location: ',facility_data['locality'].iloc[0])
-        facility_service = facility_data['overall_service_score'].iloc[0]
-        display_ratings('Service:',facility_service)
-        facility_facilities = facility_data['overall_facility_score'].iloc[0]
-        display_ratings('Facilities:',facility_facilities)
-        facility_cost = facility_data['overall_cost_score'].iloc[0]
-        display_ratings('Cost:',facility_cost)
+    if len(locality) != 0:
+        location_name = locality[0]
+        st.write('The location you have chosen is ', location_name)
+        location_data = data[data['locality'].str.contains(location_name)]
+        st.write('List of facilities at ', location_name)
+
+        # sort data frame
+        sorted_location_data = location_data.sort_values(by = ['average'], ascending = False)
+        #st.table(sorted_location_data)
+        
+        for i in range(5):
+            st.write( i, sorted_location_data['name'].iloc[i])
+            facility_service = sorted_location_data['overall_service_score'].iloc[i]
+            display_ratings('Service:',facility_service)
+            facility_facilities = sorted_location_data['overall_facility_score'].iloc[i]
+            display_ratings('Facilities:',facility_facilities)
+            facility_cost = sorted_location_data['overall_cost_score'].iloc[i]
+            display_ratings('Cost:',facility_cost)
+        
+
 
 def display_ratings(category, rating):
     st.write(category,":")
