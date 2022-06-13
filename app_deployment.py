@@ -33,13 +33,16 @@ def get_reviews_locality(locality):
         location_name = locality[0]
         st.write('The location you have chosen is ', location_name)
         location_data = data[data['locality'].str.contains(location_name)]
-        st.write('List of top 5 facilities at ', location_name)
+        st.write('List of top facilities at ', location_name)
 
         # sort data frame
         sorted_location_data = location_data.sort_values(by = ['average'], ascending = False)
         #st.table(sorted_location_data)
-        
-        for i in range(5):
+        if len(sorted_location_data.index)>=5 :
+            iteration = 5
+        else:
+            iteration = len(sorted_location_data.index)
+        for i in range(iteration):
             st.write( i, sorted_location_data['name'].iloc[i])
             facility_service = sorted_location_data['overall_service_score'].iloc[i]
             display_ratings('Service:',facility_service)
@@ -47,6 +50,7 @@ def get_reviews_locality(locality):
             display_ratings('Facilities:',facility_facilities)
             facility_cost = sorted_location_data['overall_cost_score'].iloc[i]
             display_ratings('Cost:',facility_cost)
+
         
 
 
