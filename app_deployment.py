@@ -33,7 +33,7 @@ def get_reviews_locality(locality):
         location_name = locality[0]
         st.write('The location you have chosen is ', location_name)
         location_data = data[data['locality'].str.contains(location_name)]
-        st.write('List of facilities at ', location_name)
+        st.write('List of top 5 facilities at ', location_name)
 
         # sort data frame
         sorted_location_data = location_data.sort_values(by = ['average'], ascending = False)
@@ -62,6 +62,8 @@ def display_ratings(category, rating):
         st.markdown(":star::star:")
     else:
             st.markdown(":star:")
+
+
 # Page starts here
 st.title('AMITY - Review Management with Sentiment Analysis')
 st.image('images\header.jpg')
