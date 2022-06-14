@@ -21,14 +21,14 @@ def get_reviews_facility(facility):
         facility_cost = facility_data['overall_cost_score'].iloc[0]
         display_ratings('Cost:',facility_cost)
         
+       
+        #average_ratings = facility_data['average'].iloc[0]
+        #if average_ratings >= 2.5:
+        #    st.write (facility_name, " is recommended")
+        #else:
+        #    st.write (facility_name, " is not recommended")
         
-        average_ratings = facility_data['average'].iloc[0]
-        if average_ratings >= 2.5:
-            st.write (facility_name, " is recommended")
-        else:
-            st.write (facility_name, " is not recommended")
-
-def get_reviews_locality(locality):
+def get_reviews_locality(locality,category):
     if len(locality) != 0:
         location_name = locality[0]
         st.write('The location you have chosen is ', location_name)
@@ -36,7 +36,15 @@ def get_reviews_locality(locality):
         st.write('List of top facilities at ', location_name)
 
         # sort data frame
-        sorted_location_data = location_data.sort_values(by = ['average'], ascending = False)
+        if category == 'Service':
+            sorted_location_data = location_data.sort_values(by = ['overall_service_score'], ascending = False)
+        elif category == 'Facilities':
+            sorted_location_data = location_data.sort_values(by = ['overall_facility_score'], ascending = False)
+        elif category == 'Cost':
+            sorted_location_data = location_data.sort_values(by = ['overall_cost_score'], ascending = False)
+        else:
+            sorted_location_data = location_data.sort_values(by = ['average'], ascending = False)
+
         #st.table(sorted_location_data)
         if len(sorted_location_data.index)>=5 :
             iteration = 5
@@ -45,11 +53,11 @@ def get_reviews_locality(locality):
         for i in range(iteration):
             st.write( i, sorted_location_data['name'].iloc[i])
             facility_service = sorted_location_data['overall_service_score'].iloc[i]
-            display_ratings('Service:',facility_service)
+            display_ratings('Service',facility_service)
             facility_facilities = sorted_location_data['overall_facility_score'].iloc[i]
-            display_ratings('Facilities:',facility_facilities)
+            display_ratings('Facilities',facility_facilities)
             facility_cost = sorted_location_data['overall_cost_score'].iloc[i]
-            display_ratings('Cost:',facility_cost)
+            display_ratings('Cost',facility_cost)
 
         
 
@@ -65,13 +73,12 @@ def display_ratings(category, rating):
     elif rating >=2 and rating <3:
         st.markdown(":star::star:")
     else:
-            st.markdown(":star:")
-
+        st.markdown(":star:")
 
 # Page starts here
 st.title('AMITY - Review Management with Sentiment Analysis')
 st.image('images\header.jpg')
-overall_category = ('Overall_Category_Score.csv')
+overall_category = ('Overall_Category_Score1.csv')
 data = pd.read_csv(overall_category)
 
 
@@ -83,11 +90,9 @@ if search_radio == 'direct facility':
     get_reviews_facility(facility)
 elif search_radio == 'current location' :
     locality = st.multiselect('Enter location',data['locality'].unique())
-    get_reviews_locality(locality)
+    category = st.selectbox('Top facilities based on',['Service','Facilities','Cost','Overall'])
+    get_reviews_locality(locality,category)
 
     
 
 
-
-
-##User journey 1 -> user input = Facility name
