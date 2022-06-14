@@ -83,7 +83,7 @@ data = pd.read_csv(overall_category)
 
 
 
-st.header('Find the healthcare you need!')
+st.header('Find a suitable facility with mental health services!')
 search_radio = st.radio('Find healthcare facility by:', ['direct facility', 'current location'])
 if search_radio == 'direct facility':
     facility = st.multiselect('Enter name of facility',data['name'])
