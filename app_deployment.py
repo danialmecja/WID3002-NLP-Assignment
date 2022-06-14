@@ -45,11 +45,11 @@ def get_reviews_locality(locality):
         for i in range(iteration):
             st.write( i, sorted_location_data['name'].iloc[i])
             facility_service = sorted_location_data['overall_service_score'].iloc[i]
-            display_ratings('Service:',facility_service)
+            display_ratings('Service',facility_service)
             facility_facilities = sorted_location_data['overall_facility_score'].iloc[i]
-            display_ratings('Facilities:',facility_facilities)
+            display_ratings('Facilities',facility_facilities)
             facility_cost = sorted_location_data['overall_cost_score'].iloc[i]
-            display_ratings('Cost:',facility_cost)
+            display_ratings('Cost',facility_cost)
 
         
 
@@ -70,13 +70,14 @@ def display_ratings(category, rating):
 
 # Page starts here
 st.title('AMITY - Review Management with Sentiment Analysis')
-st.image('images\header.jpg')
+#st.image('images\header.jpg') #uncomment for windows
+st.image('images/header.jpg') #uncomment for MacOS
 overall_category = ('Overall_Category_Score.csv')
 data = pd.read_csv(overall_category)
 
 
 
-st.header('Find the healthcare you need!')
+st.header('Find a suitable facility with mental health services!')
 search_radio = st.radio('Find healthcare facility by:', ['direct facility', 'current location'])
 if search_radio == 'direct facility':
     facility = st.multiselect('Enter name of facility',data['name'])
