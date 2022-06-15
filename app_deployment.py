@@ -77,7 +77,8 @@ def display_ratings(category, rating):
 
 # Page starts here
 st.title('AMITY - Review Management with Sentiment Analysis')
-st.image('images\header.jpg')
+# st.image('images\header.jpg') # For Windows, uncomment this
+st.image('images/header.jpg') # For MacOS, uncomment this
 overall_category = ('Overall_Category_Score1.csv')
 data = pd.read_csv(overall_category)
 
